@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "877610329551",
+    "project_id": "translatorapp-cc26a",
+    "storage_bucket": "translatorapp-cc26a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877610329551:android:b4726033ce3de5880b9eba",
+        "android_client_info": {
+          "package_name": "com.nathit.translatorapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877610329551-ff92ggrgldbg3d85huh9bo93doq408p8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.nathit.translatorapp",
+            "certificate_hash": "9af2fb7e0ecab43cd52d1a624f4891824b253989"
+          }
+        },
+        {
+          "client_id": "877610329551-kqibdd34rl27d3v6e689gcus210elq9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBRZufkuS6kU8KN-Bswl0AekyON3-5ry5g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877610329551-kqibdd34rl27d3v6e689gcus210elq9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
